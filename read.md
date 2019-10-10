@@ -3,7 +3,7 @@ Shane Warne HTML Website.
 #Owner- 
   Hrithik Malvani
 #contributers-
-  Smith Gajjar ( @smithg09 ) 
+  Sonia Thakur( @SoniaThakkur99 ) 
   
 Shane Warne HTML Website. 
 
